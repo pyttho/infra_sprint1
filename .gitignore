@@ -133,7 +133,8 @@ dmypy.json
 
 media/
 .media
-
+node_modules/
+build/
 # FRONTEND
 
 # dependencies
