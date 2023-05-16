@@ -1,0 +1,5 @@
+IP: 158.160.13.159 ;
+name_taski: https://todoski.hopto.org/ ;
+name_kittygram: https://kittogram.hopto.org/ ;
+login: Admin1 ;
+password: 12345 ;
