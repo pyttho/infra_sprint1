@@ -12,7 +12,11 @@ SECRET_KEY = os.getenv('TOKEN')
 
 DEBUG = True
 
+
+
 ALLOWED_HOSTS = ['158.160.13.159', '127.0.0.1', 'localhost', 'kittogram.hopto.org']
+
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
